@@ -1,1 +1,5 @@
 # mavens_report
+
+El siguiente código recoge el stock de una pizzeria llamada maven`s, en el repositorio se incluyen 2 carpetas terminadas en 2015 y 2016 en la que se realiza un stock de ingredientes por semana y, además de esto para los datos recogidos en 2016 hay otras tres carpetas mas en las que según su nombre se hace un reporte, en forma de pdf incluyendo el stock y el formato de los datos. En un formato json donde se incluyen los datos y el formato en el que han de estar para el correcto funcionamiento y por último en un excel donde bienen 3 reportes distintos, i¡uno con los ingredientes utilizados por semana, uno con la cartidad de pizzas vendidas por semana y otro con los ingresos que reportan las pizzas por semana.
+
+Para su correcta ejecución es necesario descargar todo el repositorio y descargar el requirements.txt de cada carpeta para la correcta ejecucion de cada apartado, y posteriormenerte ejecutarlo en una terminal de la forma python nombre_del_archivo_a_ejecutar.py donde nombre_del_archivo_a_ejecutar será en cada caso el nombre del archivo terminado en .py
